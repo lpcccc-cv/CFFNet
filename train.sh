@@ -1,3 +1,3 @@
-CUDA_VISIBLE_DEVICES=0 python test_multi_frame_psnr.py
+python train.py -opt configs/TMNet_multiple_frames.yaml
 
 
